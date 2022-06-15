@@ -1,5 +1,5 @@
 {
-  "name": "fundamentos-nodejs",
+  "name": "FINAPI",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,7 +7,8 @@
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "uuidv4": "^6.2.13"
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
